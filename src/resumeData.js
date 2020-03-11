@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://github.com/joaocika93/",
     "name": "João Santos",
     "role": "Software Developer Intern",
-    "roleDescription": "I am passionate for the code. Each chellange logical, like build something new or fix any problem, give me a emotion and happiness. My main goal is become to a senior developer and everyday i seek learning new or improve any skill. I like working with peoples, build relashionships and mak the world a better place.",
+    "roleDescription": "I am passionate for the code. Each challenge logical, like build something new or fix any problem, give me a emotion and happiness. My main goal is become to a senior developer and everyday i seek learning new or improve any skill. I like working with peoples, build relashionships and mak the world a better place.",
     "socialLinks":[
         {
           "name":"linkedin",
