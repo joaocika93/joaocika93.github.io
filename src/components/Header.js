@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Curriculum from '../components/curriculo.pdf'
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -13,7 +14,7 @@ export default class Header extends Component {
                <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                <li><a className="smoothscroll" href="#about">About</a></li>
              <li><a className="smoothscroll" href="#resume">Resume</a></li>
-               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+             <li><a href={Curriculum} target="_blanck"><button>Curriculum</button></a></li>
             </ul>
          </nav>
 
